@@ -1,4 +1,4 @@
-gangliu.github.io
+gangliuEE.github.io
 =================
 
 Gang Liu Personal Website

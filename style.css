@@ -185,7 +185,9 @@ th, td {
 	text-align: right;
 }
 
-
+.statcounter {
+	display: none;
+}
 
 
 
